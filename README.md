@@ -15,7 +15,7 @@ Download the whole repository from GitHub or clone it using git.
 
 ### Fortran compiler
 We suggest gfortran as compiler.
-Get gfortran HERE or use your trusted package manager.
+Get gfortran [HERE](https://gcc.gnu.org/wiki/GFortran) or use your trusted package manager.
 
 Example: for Ubuntu or other Linux OSs with APT.
 ```
